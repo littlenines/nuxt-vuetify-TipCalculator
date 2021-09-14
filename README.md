@@ -1,6 +1,6 @@
 # TipCalculator
 Used in this mini project for practice: Nuxt , Vuetify , JavaScript <br>
-This project was firtsly done with Bootstrap and redone with Vuetify in Nuxt to see and understand some differences as well as similarities.
+This project was firstly done with Bootstrap and redone with Vuetify in Nuxt to see and understand some differences as well as similarities.
 <br> <br>
 
 
